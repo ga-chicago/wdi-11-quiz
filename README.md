@@ -16,7 +16,7 @@ Prerequisites: JavaScript <br>
 0\. **IMPORTANT: Read all instructions on this quiz very carefully before you do them!**<br><br>
 1\. FORK THIS AND CLONE IT. Inside of the folder it will automatically create, create our folder structure.<br><br>
 2\. Copy the questions that you are answering into your file (and comment it out) and write the answer below the question.<br><br>
-3\. When you are finished or at 11:30, whichever comes first, make a pull request from your fork.<br><br>
+3\. When you are finished or at after 40 minutes, whichever comes first, make a pull request from your fork.<br><br>
 
 ## Combine objects, arrays, and functions
 
@@ -203,4 +203,4 @@ console.log(5 + a);
 
 ---
 
-If you finish early, finish/work on your lab from yesterday or the one from the previous day if you haven't finished that one yet.
+If you finish early, finish/work the weather lab.
